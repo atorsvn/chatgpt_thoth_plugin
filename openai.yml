@@ -1,0 +1,131 @@
+openapi: 3.0.1
+info:
+  title: Tarot Reading Plugin
+  description: A plugin that allows the user to draw and interpret Tarot cards, and perform text-based search on Tarot card information.
+  version: 'v1'
+servers:
+  - url: http://localhost:5003
+paths:
+  /tarot:
+    post:
+      operationId: getTarotReading
+      summary: Draw and interpret a number of Tarot cards
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/getTarotReadingRequest'
+      responses:
+        "200":
+          description: OK
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/getTarotReadingResponse'
+  /tarot_search/name:
+    post:
+      operationId: searchTarotName
+      summary: Search Tarot cards by name
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/searchTarotRequest'
+      responses:
+        "200":
+          description: OK
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/searchTarotResponse'
+  /tarot_search/interpretation:
+    post:
+      operationId: searchTarotInterpretation
+      summary: Search Tarot cards by interpretation
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/searchTarotRequest'
+      responses:
+        "200":
+          description: OK
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/searchTarotResponse'
+  /tarot_search/attributes:
+    post:
+      operationId: searchTarotAttributes
+      summary: Search Tarot cards by attributes
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/searchTarotRequest'
+      responses:
+        "200":
+          description: OK
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/searchTarotResponse'
+  /tarot_search/all:
+    post:
+      operationId: searchTarotAll
+      summary: Search Tarot cards by name, interpretation and attributes
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/searchTarotRequest'
+      responses:
+        "200":
+          description: OK
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/searchTarotAllResponse'
+components:
+  schemas:
+    getTarotReadingRequest:
+      type: object
+      required:
+        - num_cards
+      properties:
+        num_cards:
+          type: integer
+          description: The number of Tarot cards to draw and interpret.
+    getTarotReadingResponse:
+      type: object
+      properties:
+        reading:
+          type: array
+          items:
+            type: object
+          description: The drawn Tarot cards and their interpretation.
+    searchTarotRequest:
+      type: object
+      required:
+        - query
+      properties:
+        query:
+          type: string
+          description: The text query to search the Tarot cards.
+    searchTarotResponse:
+      type: object
+      properties:
+        card:
+          type: object
+          description: The Tarot card that best matches the query.
+    searchTarotAllResponse:
+      type: object
+      properties:
+        results:
+          type: object
+          description: The Tarot cards that best match the query in each field (name, interpretation, attributes).

@@ -1,0 +1,548 @@
+[
+    {
+        "attributes": "Hebrew: Aleph, Element: Air, Planet: Uranus",
+        "id": 0,
+        "interpretation": "In spiritual matters, The Fool means idea, thought, spirituality, that which\nendeavors to transcend Earth, originality, audacity. In material matters, it means (if badly dignified) folly, stupidity, inconsideration, eccentricity, or even mania.",
+        "name": "Atu O — The Fool",
+        "suite": "Major"
+    },
+    {
+        "attributes": "Hebrew:  Beth, Planet: Mercury",
+        "id": 1,
+        "interpretation": "Skill, wisdom, initiative, adroitness, adaptation, elasticity, craft, constructiveness, cunning, deceit, theft. Sometimes means occult wisdom or power; sometimes a quick\nimpulse. May imply messages, business transactions, or the advantage or interference of intellect\nor learning with the matter at hand. ",
+        "name": "Atu I — The Magus",
+        "suite": "Major"
+    },
+    {
+        "attributes": "Hebrew: Gimel, Planet: Luna",
+        "id": 2,
+        "interpretation": "A pure, exalted, and gracious influence enters the matter. Change, alternation,\nreaction, increase and decrease, fluctuation, cyclicity, rhythm; whether for good or evil depends on\nthe dignity. Secrets, hidden things, mysteries awaiting later disclosure. There may be, however, a\nliability to be carried away by enthusiasm, to become “moonstruck,” unless careful balance is\nmaintained. ",
+        "name": "Atu II — The Priestess",
+        "suite": "Major"
+    },
+    {
+        "attributes": "Hebrew: Daleth, Planet: Venus",
+        "id": 3,
+        "interpretation": "Love, beauty, happiness, pleasure, sensuousness, fruitfulness, success, completion, graciousness, elegance, friendship, gentleness, delight. But with very bad dignity, it means\nluxury, idleness, debauchery, dissipation.",
+        "name": "Atu III — The Empress",
+        "suite": "Major"
+    },
+    {
+        "attributes": "Hebrew: Tzaddi, Zociac: Aries",
+        "id": 4,
+        "interpretation": "Energy, power, vigor, ambition, conquest, victory, control, governance, law\nand order, originality, stability; overweening confidence, megalomania; quarrelsomeness, strife,\nstubbornness, rashness, ill-temper. ",
+        "name": "Atu IV — The Emperor",
+        "suite": "Major"
+    },
+    {
+        "attributes": "Hebrew: Vau, Zodiac: Taurus",
+        "id": 5,
+        "interpretation": "Wisdom, intuition, manifestation, teaching (inner teachings received), philosophical, goodness of heart, harmony, marriage, help from superiors, peace, stillness, occult force\nvoluntarily invoked. ",
+        "name": "Atu V — The Hierophant",
+        "suite": "Major"
+    },
+    {
+        "attributes": "Hebrew: Zayin, Zodiac: Gemini",
+        "id": 6,
+        "interpretation": "Inspiration, receptiveness, intuition, intelligence, “second sight,” childishness, frivolity, triviality, thoughtfulness divorced from practical considerations, indecision, contradiction, self-contradiction, instability, the necessity to choose between alternate paths. May\nmean love, union, the proper mating of opposites, resolution of differences, a proper relationship\nbetween the inner and outer aspects of life (or between subconsciousness and ego-consciousness). ",
+        "name": "Atu VI — The Lovers",
+        "suite": "Major"
+    },
+    {
+        "attributes": "Hebrew: Cheth, Zodiac: Cancer",
+        "id": 7,
+        "interpretation": "Triumph, victory, hope, memory, digestion (health sometimes unstable),\nextreme zeal in maintaining traditional ideas, the “diehard,” ruthlessness, lust of destruction,\nobedience, faithfulness, service under authority; receptive, questing, seeking, voluntary sacrifice\nor surrender. ",
+        "name": "Atu VII — The Chariot",
+        "suite": "Major"
+    },
+    {
+        "attributes": "Hebrew: Lamed, Zodiac: Libra",
+        "id": 8,
+        "interpretation": "Eternal justice; or, rather, justesse, equilibrium, the act of adjustment, balance\nby opposites, internal compensation or adjustment within the whole, pending decision. Karma. In\nmaterial matters, may mean law, legal actions, prosecutions, trial, etc. Socially, marriage or marriage agreements; politically, treaties. ",
+        "name": "Atu VIII — Adjustment",
+        "suite": "Major"
+    },
+    {
+        "attributes": "Hebrew: Yod, Zodiac: Virgo",
+        "id": 9,
+        "interpretation": "Wisdom or illumination from within; secret impulse from within; practical\nplans derived accordingly. Retirement from participation in current events. Active divine inspiration. Prudence, circumspection. Sometimes “unexpected current.” ",
+        "name": "Atu IX — The Hermit",
+        "suite": "Major"
+    },
+    {
+        "attributes": "Hebrew: Chesed, Planet: Jupiter",
+        "id": 10,
+        "interpretation": "Change in fortune. Usually means good fortune and happiness, a “turn for the\nbetter” (since the fact of consultation implies anxiety or discontent). Law, rhythm, pattern, cycles.\nIntoxication of success. ",
+        "name": "Atu X — The Wheel of Fortune",
+        "suite": "Major"
+    },
+    {
+        "attributes": "Hebrew: Teth, Zodiac: Leo",
+        "id": 11,
+        "interpretation": "Courage, strength, fortitude, energy, action, une grande passion, joy in desire. Employment of magick; use of magick power. Manifestation and control of the life-power. ",
+        "name": "Atu XI — Lust",
+        "suite": "Major"
+    },
+    {
+        "attributes": "Hebrew: Mem, Element: Water",
+        "id": 12,
+        "interpretation": "Sacrifice, punishment, suffering, loss (all either fatal or voluntary); wisdom,\nsurrender, renunciation. A reversal of circumstances. ",
+        "name": "Atu XII — The Hanged Man",
+        "suite": "Major"
+    },
+    {
+        "attributes": "Hebrew: Nun, Zodiac: Scorpio",
+        "id": 13,
+        "interpretation": "Transformation, change, metamorphosis; whether voluntary or involuntary, it\nis always as a logical development of existing conditions, yet perhaps sudden and unexpected. Or\ndeath, destruction (only rarely; and such an interpretation is illusory). Especially, sudden and quite\nunexpected change or evolution of circumstances. Redemption through putrefaction. ",
+        "name": "Atu XIII — Death",
+        "suite": "Major"
+    },
+    {
+        "attributes": "Hebrew: Samekh, Zodiac: Sagittarius",
+        "id": 14,
+        "interpretation": "Fertile combination of forces, adaptation, realization; aspiration, ambition;\nordeal, trial, probation, testing, refinement; action (based on accurate calculation), equilibration,\nresolution of errors. ",
+        "name": "Atu XIV — Art",
+        "suite": "Major"
+    },
+    {
+        "attributes": "Hebrew: Ayin, Zodiac: Capricorn",
+        "id": 15,
+        "interpretation": "Blind impulse, irresistibly strong and unscrupulous; obsession. Materiality,\nmaterial (creative) force, temptation, bondage. Ordeal, trouble, struggle. Secret plan about to be\nexecuted; hard work, obstinacy, rigidity, aching discontent, endurance. ",
+        "name": "Atu XV — The Devil",
+        "suite": "Major"
+    },
+    {
+        "attributes": "Hebrew: Pé, Planet: Mars",
+        "id": 16,
+        "interpretation": "Sudden and eruptive change of circumstances. Overwhelming of existing\nstructures by a sudden and tremendous energy. Revelation, disclosure, exposure. Danger, unforeseen catastrophes. Strength, energy, fighting (quarrel, combat, war), courage; or destruction,\ndanger, ambition, fall, ruin. Destabilization or destruction as a preparation for new creation. ",
+        "name": "Atu XVI — The Tower",
+        "suite": "Major"
+    },
+    {
+        "attributes": "Hebrew: Hé, Zodiac: Aquarius",
+        "id": 17,
+        "interpretation": "Hope, faith, revelation, insight, unexpected help, clarity of vision, realization\nof possibilities, spiritual insight. Or, if badly configured, dreaminess, deceived hope, judgment\nerrors, disappointment, etc. ",
+        "name": "Atu XVII — The Star",
+        "suite": "Major"
+    },
+    {
+        "attributes": "Hebrew: Qoph, Zodiac: Pisces",
+        "id": 18,
+        "interpretation": "Illusion, bewilderment, dissociation from objective reality, dreaminess, error,\nmisunderstanding, lying, falsehood, deception, hidden enemies. Dissatisfaction, the need for\nchange; crisis, “the darkest hour before the dawn,” the brink of important change. A reminder not\nto stray from the path of True Will. (This card is very sensitive to dignity.) ",
+        "name": "Atu XVIII — The Moon",
+        "suite": "Major"
+    },
+    {
+        "attributes": "Hebrew: Resh, Planet: Sol",
+        "id": 19,
+        "interpretation": "Light, Life, Love, and Liberty. Glory, gain, riches, triumph, liberation,\npleasure, frankness, candor, truth, shamelessness, self-disclosure, self-knowledge. Health. With\nvery adverse cards, it means arrogance, self-aggrandizement, display, vanity. ",
+        "name": "Atu XIX — The Sun",
+        "suite": "Major"
+    },
+    {
+        "attributes": "Hebrew: Shin, Element: Fire",
+        "id": 20,
+        "interpretation": "Final decision in respect to the past, and new current in respect to the future;\nthe opening of new doors concurrent with the closing of old ones. Transforming fire, renewal.\nAlways represents the taking of a definite and decisive step. ",
+        "name": "Atu XX — The Aeon",
+        "suite": "Major"
+    },
+    {
+        "attributes": "Hebrew: Tau, Planet: Saturn & Earth",
+        "id": 21,
+        "interpretation": "The matter of the query itself. Synthesis, conclusion, the end of the matter.\nMay mean delay, opposition, obstinacy, inertia, patience, perseverance, persistence through difficulty. The crystallization of the whole matter involved. Usually, as it denotes the actual subject of\nthe query, it depends substantially on the accompany cards. ",
+        "name": "Atu XXI — The Universe",
+        "suite": "Major"
+    },
+    {
+        "attributes": "Element: Spirit of Fire. ",
+        "id": 22,
+        "interpretation": "The essence of the element of Fire in its inception. The primordial energy of the\nDivine, manifesting in matter at so early a stage that it is not yet definitely formulated as Will. It\nsymbolizes Force – strength, rush, vigor, energy, enterprise, initiation, beginning. It implies Natural Force, as opposed to Invoked Force. It governs various works and questions. ",
+        "name": "Ace of Wands - Root of Fire",
+        "suite": "Wands (Fire/Spirit)"
+    },
+    {
+        "attributes": "Planet: Mars, Sign: Aries",
+        "id": 23,
+        "interpretation": "Dominion. Creative Will. Sudden application of phenomenal energy.\nWillful, imperial, independent. Strength, courage, fierceness; unyielding, restless, impatient. ",
+        "name": "Two of Wands - Domintion",
+        "suite": "Wands (Fire/Spirit)"
+    },
+    {
+        "attributes": "Planet: Sol, Sign: Aries",
+        "id": 24,
+        "interpretation": "Virtue, established strength. Self-respect, integrity, self-assertion, arrogance, conceit, pride, nobility, generosity. Firm, decisive, determined, persevering; private, solitary. ",
+        "name": "Three of Wands - Virtue",
+        "suite": "Wands (Fire/Spirit)"
+    },
+    {
+        "attributes": "Planet: Venus, Sign: Aries",
+        "id": 25,
+        "interpretation": "Completion, perfected works. Rest after labor (laziness, negligence,\nidleness, waste). Graceful, harmonious, comfortable. Tact, popularity. ",
+        "name": "Four of Wands - Completion",
+        "suite": "Wands (Fire/Spirit)"
+    },
+    {
+        "attributes": "Planet: Saturn, Sign: Leo",
+        "id": 26,
+        "interpretation": "Strife. Struggle, hardness, endurance, obstinacy, self-interest. Quarreling, fighting, competition, violence. Injury, pain, conflict. ",
+        "name": "Five of Wands - Strife",
+        "suite": "Wands (Fire/Spirit)"
+    },
+    {
+        "attributes": "Planet: Jupiter, Sign: Leo",
+        "id": 27,
+        "interpretation": "Victory. Harmony and beauty of Will. Leadership. Joy, health, gain,\ndignity, self-confidence. Insolence, vanity, self-admiration, pride. Social conscience. ",
+        "name": "Six of Wands - Victory",
+        "suite": "Wands (Fire/Spirit)"
+    },
+    {
+        "attributes": "Planet: Mars, Sign: Leo",
+        "id": 28,
+        "interpretation": "Valor. Enthusiasm, zeal, passion, emotional force and vitality, courage\namidst opposition, defense of loved ones. Outbursts of extreme emotion, quarreling. ",
+        "name": "Seven of Wands - Valour",
+        "suite": "Wands (Fire/Spirit)"
+    },
+    {
+        "attributes": "Planet: Mercury, Sign: Sagittarius",
+        "id": 29,
+        "interpretation": "Swiftness. Rapid energetic rush, quickly passed/expended. Violent, intense. Discipline and focus provide swift thought-channels, yet narrow/specialize the\nviewpoint. ",
+        "name": "Eight of Wands - Swiftness",
+        "suite": "Wands (Fire/Spirit)"
+    },
+    {
+        "attributes": "Planet: Luna, Sign: Sagittarius",
+        "id": 30,
+        "interpretation": "Strength, power, health, success. Ardent, creative. Psychological equilibrium, resolution of internal conflict. Mobility, adaptability, stability through change. ",
+        "name": "Nine of Wands - Strength",
+        "suite": "Wands (Fire/Spirit)"
+    },
+    {
+        "attributes": "Planet: Saturn, Sign: Sagittarius",
+        "id": 31,
+        "interpretation": "Oppression. Inertia impedes progress. Overbearing resistance. Cruelty,\nmalice, tyranny. Perseverance, endurance, effort. Materialism, possessiveness. ",
+        "name": "Ten of Wands - Oppression",
+        "suite": "Wands (Fire/Spirit)"
+    },
+    {
+        "attributes": "Element: Air of Water. Rules: 21 ° Cancer to 20° Leo",
+        "id": 32,
+        "interpretation": "Strife and Victory. Reason giving guidance, lucidity, and\ncontinuity to underlying Will-force. Vital, virile, energetic, swift. Lust for life, passion,\nvitality, and the rapture which is born from the fulfillment of True Will. ",
+        "name": "Prince of Wands",
+        "suite": "Wands (Fire/Spirit)"
+    },
+    {
+        "attributes": "Element: Earth of Fire. Rules the celestial quadrant of Cancer, Leo, Virgo",
+        "id": 33,
+        "interpretation": "Action expressing the root creative impulse or willforce. Incarnation of spiritual Principle in a vehicle capable of sustaining and manifesting\nit. The Causal Body. Vitality, joy of life, passion; pristine, perfect, a pure flame. ",
+        "name": "Princess of Wands",
+        "suite": "Wands (Fire/Spirit)"
+    },
+    {
+        "attributes": "Element: Fire of Fire. Rules: 20 ° Scorpio to 20° Sagittarius",
+        "id": 34,
+        "interpretation": "Swiftness, strength. Fiery, erupting, initiating, paternal,\ncreative. Primal Will-Force. A very rapid rush, quickly passed and expended — too much\nforce applied too suddenly, violently, and intensively. ",
+        "name": "Knight of Wands",
+        "suite": "Wands (Fire/Spirit)"
+    },
+    {
+        "attributes": "Element: Water of Fire. Rules: 21° Pisces to 20° Aries",
+        "id": 35,
+        "interpretation": "Dominion, established strength, virtue. Understanding,\nwherein power is received, held, and nurtured. Anointing/Sanctifying Fire. Meditation,\nreflection, inner fixedness, magnetic. ",
+        "name": "Queen of Wands",
+        "suite": "Wands (Fire/Spirit)"
+    },
+    {
+        "attributes": "Element: Spirit of Air.",
+        "id": 36,
+        "interpretation": "Root of the Powers of Air. Great power for good or evil (invoked\nrather than natural). Intellect at its best and finest, as a tool for use. Conquest, activity,\nand strength during trouble. Justice , wrath, punishment, affliction.",
+        "name": "Ace of Swords - Root of Air",
+        "suite": "Swords (Air/Intellect)"
+    },
+    {
+        "attributes": "Planet: Luna, Sign: Libra",
+        "id": 37,
+        "interpretation": "Peace restored. Compromise, cooperation, friendship. Emotional division creatively resolved. Strength from difficulties, pleasure after pain. ",
+        "name": "Two of Swords - Peace",
+        "suite": "Swords (Air/Intellect)"
+    },
+    {
+        "attributes": "Planet: Saturn, Sign: Libra",
+        "id": 38,
+        "interpretation": "Sorrow, disappointment, tears, separation, alienation, melancholy, discontent. Mirth in Platonic pleasures. Faithful in promises, conscientious, dutiful. ",
+        "name": "Three of Swords - Sorrow",
+        "suite": "Swords (Air/Intellect)"
+    },
+    {
+        "attributes": "Planet: Jupiter, Sign: Libra",
+        "id": 39,
+        "interpretation": "Truce, rest from strife. Convalescence, recovery, restoration. Relief\nfrom anxiety, refuge from mental chaos. Intellectual authority, dogma, convention. Social\nsatisfaction. ",
+        "name": "Four of Swords - Truce",
+        "suite": "Swords (Air/Intellect)"
+    },
+    {
+        "attributes": "Planet: Venus, Sign: Aquarius",
+        "id": 40,
+        "interpretation": "Defeat, failure; spite, enmity, slander, dishonor; lost competitive edge.\nMental anguish, requiring mental strength, resolve. Cruel, cowardly. Sentiment weakens\nintellect. ",
+        "name": "Five of Swords - Defeat",
+        "suite": "Swords (Air/Intellect)"
+    },
+    {
+        "attributes": "Planet: Mercury, Sign: Aquarius",
+        "id": 41,
+        "interpretation": "Science, success. Mental/moral balance, health, wholeness. Intelligence, humanity. Inventive, progressive thought; attentive, analytical. Long distance\ntravel, commerce. ",
+        "name": "Six of Swords - Science",
+        "suite": "Swords (Air/Intellect)"
+    },
+    {
+        "attributes": "Planet: Luna, Sign: Aquarius",
+        "id": 42,
+        "interpretation": "Unstable effort, futility. Doubt, vacillation, distraction. Poor effort. Inattentive, weak, sloppy. Clever, adaptable; conniving, unreliable. Passive, moody, easily\ninfluenced. ",
+        "name": "Seven of Swords - Futility",
+        "suite": "Swords (Air/Intellect)"
+    },
+    {
+        "attributes": "Planet: Jupiter, Sign: Gemini",
+        "id": 43,
+        "interpretation": "Interference, indecision, obfuscation. Narrow, petty; intellectual, controlling; but unfocussed or autistic. Versatile/distractible; obliging/conciliatory; avoidant;\nsuperficial. ",
+        "name": "Eight of Swords - Interference",
+        "suite": "Swords (Air/Intellect)"
+    },
+    {
+        "attributes": "Planet: Mars, Sign: Gemini",
+        "id": 44,
+        "interpretation": "Despair, cruelty, suffering, malice. Emotional pain, eruptive emotion.\nConflict, rage, anxiety, frustration, restlessness. Mental discipline, analysis, inquiry, discrimination. ",
+        "name": "Nine of Swords - Cruelty",
+        "suite": "Swords (Air/Intellect)"
+    },
+    {
+        "attributes": "Planet: Sol, Sign: Gemini",
+        "id": 45,
+        "interpretation": "Ruin, defeat, disruption. Creative impulse checked. End of delusion.\nNew dawn pending? Needs perseverance, endurance, practicality, and sense of humor. ",
+        "name": "Ten of Swords - Ruin",
+        "suite": "Swords (Air/Intellect)"
+    },
+    {
+        "attributes": "Element: Air of Fire. Rules: 21 ° Capricorn to 20° Aquarius",
+        "id": 46,
+        "interpretation": "Intellect functioning in its own plane. Reason accepted on\nits own terms. Inventive and progressive thinking. Intelligence and humanity. Yet motivated by defeat vs. success, a competitive ‘win-lose’ perspective. ",
+        "name": "Prince of Swords",
+        "suite": "Swords (Air/Intellect)"
+    },
+    {
+        "attributes": "Element: Earth of Air. Rules the celestial quadrant of Capricorn. Pisces, Aquarius",
+        "id": 47,
+        "interpretation": "Action in response to Idea: informed, strategic, wellgrounded. Relationship between astral and physical worlds, between psyche and soma.\nThe irresistible current of science (exoteric and esoteric) to liberate with unveiled truth. ",
+        "name": "Princess of Swords",
+        "suite": "Swords (Air/Intellect)"
+    },
+    {
+        "attributes": "Element: Fire of Air. Rules: 21 ° Taurus to 20° Gemini",
+        "id": 48,
+        "interpretation": "Cruelty, interference. The Dominion of the Intellect. Separative, discriminating, controlling, commanding, imperious. Mental discipline, analysis,\nprecision, inquiry, discrimination. The lightning and thunder of the storm. ",
+        "name": "Knight of Swords",
+        "suite": "Swords (Air/Intellect)"
+    },
+    {
+        "attributes": "Element: Water of Air. Rules: 21 ° Virgo to 20° Libra",
+        "id": 49,
+        "interpretation": "“Liberator of the Mind.” The response of the egoic intellect to hunches, insight, and intuition. Alienation, isolation; possibly sorrow, grief, be-\n92\nreavement. Compromise, peace; divergent views brought into harmony without dismissing their differences. ",
+        "name": "Queen of Swords",
+        "suite": "Swords (Air/Intellect)"
+    },
+    {
+        "attributes": "Element: Spirit of Water.  ",
+        "id": 50,
+        "interpretation": "Root of the Powers of Water. Fertility, productiveness, conception,\nbeauty, love, pleasure, happiness. ",
+        "name": "Ace of Cups - Root of Water",
+        "suite": "Cups (Water/Emotion)"
+    },
+    {
+        "attributes": "Planet: Venus, Sign:Cancer",
+        "id": 51,
+        "interpretation": "Love, pleasure, reciprocity, reflection, marriage, harmony, joy, ecstasy.\nAffections governed by instinct rather than social convention or conditioning or logic.",
+        "name": "Two of Cups - Love",
+        "suite": "Cups (Water/Emotion)"
+    },
+    {
+        "attributes": "Planet: Mercury, Sign:Cancer",
+        "id": 52,
+        "interpretation": "Abundance. Fulfillment, love, pleasure, sensuality; gladness, kindness,\nmerriment. The spiritual basis of fertility. Keen perception, memory; good fortune. ",
+        "name": "Three of Cups - Abundance",
+        "suite": "Cups (Water/Emotion)"
+    },
+    {
+        "attributes": "Planet: Luna, Sign:Cancer",
+        "id": 53,
+        "interpretation": "Luxury, leisure, comfort. Much kindness received, stabilized pleasure.\nDevotion. Contemplation, introspection. Lazy, negligent, jaded; loss of impulse from\nover-satisfaction. ",
+        "name": "Four of Cups - Luxury",
+        "suite": "Cups (Water/Emotion)"
+    },
+    {
+        "attributes": "Planet: Mars, Sign: Scorpio",
+        "id": 54,
+        "interpretation": "Emotional severity, requiring emotional strength. Disappointment in love,\nsadness, heart-break, loss of friendship, betrayal, ruthlessness, detraction. ",
+        "name": "Five of Cups - Disappointment",
+        "suite": "Cups (Water/Emotion)"
+    },
+    {
+        "attributes": "Planet: Sol, Sign: Scorpio",
+        "id": 55,
+        "interpretation": "Pleasure. Harmony and beauty in matters of the heart. Beginning of happiness, ease, satisfaction. Preeminently fertile (through putrefaction). Fulfillment of the\nsexual Will. ",
+        "name": "Six of Cups - Pleasure",
+        "suite": "Cups (Water/Emotion)"
+    },
+    {
+        "attributes": "Planet: Venus, Sign: Scorpio",
+        "id": 56,
+        "interpretation": "Debauch. Illusion, deception, error, promises unfulfilled. Imagination.\nPassionate, attractive. Substance abuse, wrath, vanity, shame. Lust, dissipation, betrayal,\njealousy. ",
+        "name": "Seven of Cups - Debauch",
+        "suite": "Cups (Water/Emotion)"
+    },
+    {
+        "attributes": "Planet: Saturn, Sign: Pisces",
+        "id": 57,
+        "interpretation": "Abandoned success. Renunciation, self-denying. Mental inhibition, distrust, loneliness, withdrawal. Heaviness. Exhaustion, loss of heart, stagnation, depression,\nburn-out. ",
+        "name": "Eight of Cups - Indolence",
+        "suite": "Cups (Water/Emotion)"
+    },
+    {
+        "attributes": "Planet: Jupiter, Sign: Pisces",
+        "id": 58,
+        "interpretation": "Happiness, pleasure. Satisfaction of sensuous, creative, and sexual needs;\nenjoyment of life, richness of soul. Kind, content, lovable; vain, self-satisfied. Big ideas.",
+        "name": "Nine of Cups - Happiness",
+        "suite": "Cups (Water/Emotion)"
+    },
+    {
+        "attributes": "Planet: Mars, Sign: Pisces",
+        "id": 59,
+        "interpretation": "Satiety, lasting success, happiness, pleasure. Sensuous, wanton, material.\nDebauchery, waste, no self-control, drug craving. Kind, generous; unreliability in romance. ",
+        "name": "Ten of Cups - Satiety",
+        "suite": "Cups (Water/Emotion)"
+    },
+    {
+        "attributes": "Element: Air of Water. Rules: 21 ° Libra to 20° Scorpio",
+        "id": 60,
+        "interpretation": "Dynamic, sustained passion. Hero in the campaign of the\nsoul’s exploration and conquest. Reason as the medium of expressing the depths of the\nsoul. ",
+        "name": "Prince of Cups",
+        "suite": "Cups (Water/Emotion)"
+    },
+    {
+        "attributes": "Element: Earth of Water. Rules the celestial quadrant of Libra, Scorpio and Sagittarius",
+        "id": 61,
+        "interpretation": "Ideas given solid form or embodiment. Lending substance\nto ideas/ideals. Action harmonious with and in response to intuition. Shows the relationship between the incarnate human soul and the Higher Soul. ",
+        "name": "Princess of Cups",
+        "suite": "Cups (Water/Emotion)"
+    },
+    {
+        "attributes": "Element: Fire of Water. Rules: 21 ° Aquarius to 20° Pisces",
+        "id": 62,
+        "interpretation": "Indolence, happiness, passivity, inspiration. Inner receptiveness of the spiritual consciousness toward the Divine Will. Responsiveness, conformity,\nand obedience to what is received. Artistic creative impulse. ",
+        "name": "Knight of Cups",
+        "suite": "Cups (Water/Emotion)"
+    },
+    {
+        "attributes": "Element: Water of Water. Rules: 21 ° Gemini to 20° Cancer",
+        "id": 63,
+        "interpretation": "Love, abundance. Nurturance, love, fertile maternity, reflection, peace. Intuition, all higher expressions of the soul, including prophesy and revelation. ",
+        "name": "Queen of Cups",
+        "suite": "Cups (Water/Emotion)"
+    },
+    {
+        "attributes": "Element: Spirit of Earth.",
+        "id": 64,
+        "interpretation": "Root of the Powers of Earth. Material gain, power, labor, wealth, contentment. Instructs that matter is entirely of the substance of Spirit, and of the Creative\nLight of the Sun.",
+        "name": "Ace of Disks - Root of Earth",
+        "suite": "Disks (Earth/Physicality)"
+    },
+    {
+        "attributes": "Planet: Jupiter, Sign: Capricorn",
+        "id": 65,
+        "interpretation": "Change (usually harmonious). Cyclicity (of circumstances, emotions,\n&c.). Responsible, but inconsistent. Impulse toward the new; intuitive, forward-looking.\nJourneys. ",
+        "name": "Two of Disks - Change",
+        "suite": "Disks (Earth/Physicality)"
+    },
+    {
+        "attributes": "Planet: Mars, Sign: Capricorn",
+        "id": 66,
+        "interpretation": "Work. Idea concretized into form, through labor. Construction, creation,\nendurance, sober practicality; material increase. Business, commercial transaction, earned\ngain. ",
+        "name": "Three of Disks - Works",
+        "suite": "Disks (Earth/Physicality)"
+    },
+    {
+        "attributes": "Planet: Sol, Sign: Capricorn",
+        "id": 67,
+        "interpretation": "Earthly power. authority, success, rank, dominion, paternal power. Selfaggrandizement, acting superior. Careful, serious, orderly, practical. Law, order, pattern,\nsystem. Gain of money or influence. ",
+        "name": "Four of Disks - Power",
+        "suite": "Disks (Earth/Physicality)"
+    },
+    {
+        "attributes": "Planet:, Mercury: Taurus",
+        "id": 68,
+        "interpretation": "Worry/anxiety in practical/financial matters, requiring strength, resolve,\nintelligence, analysis. Mental duress, economic anxiety. Prolonged inaction; strain of inertia. ",
+        "name": "Five of Disks - Worry",
+        "suite": "Disks (Earth/Physicality)"
+    },
+    {
+        "attributes": "Planet:, Luna: Taurus",
+        "id": 69,
+        "interpretation": "Success, including material success. Gain, prosperity, fertility, philanthropy. Stabilizing circumstances. Constancy, devotion. Enjoyment of life, appreciation\nof beauty.",
+        "name": "Six of Disks - Success",
+        "suite": "Disks (Earth/Physicality)"
+    },
+    {
+        "attributes": "Planet:, Saturn: Taurus",
+        "id": 70,
+        "interpretation": "Successful unfulfilled thus far. Failure; or success only through labor and\npatience. Inertia, disappointment, lost motivation, emotional loss, hopes crushed. Yet persevering, methodical, realistic, faithful, determined. ",
+        "name": "Seven of Disks - Failure",
+        "suite": "Disks (Earth/Physicality)"
+    },
+    {
+        "attributes": "Planet: Sol, Sign: Virgo",
+        "id": 71,
+        "interpretation": "Prudence, artisanship. Intelligence, cunning, calculation, diligence, methodical, orderly. Prudent, industrious. Practical, resourceful, clear mind. Careful work\nand fine detail. ",
+        "name": "Eight of Disks - Prudence",
+        "suite": "Disks (Earth/Physicality)"
+    },
+    {
+        "attributes": "Planet: Venus, Sign: Virgo",
+        "id": 72,
+        "interpretation": "Material gain and good fortune. Harvest, fruitfulness, creation, inheritance. Pleasure, happiness, devotion, care-giving, affectionate, desirous of children,\ngraceful. ",
+        "name": "Nine of Disks - Gain",
+        "suite": "Disks (Earth/Physicality)"
+    },
+    {
+        "attributes": "Planet: Mercury, Sign: Virgo",
+        "id": 73,
+        "interpretation": "Wealth. Prosperity, riches. The completion or reward of labor. The pinnacle of success. Practical and intelligent management of affairs. ",
+        "name": "Ten of Disks - Wealth",
+        "suite": "Disks (Earth/Physicality)"
+    },
+    {
+        "attributes": "Element: Air of Earth. Rules: 21 ° Aries to 20° Taurus",
+        "id": 74,
+        "interpretation": "Reason, intelligence, objectivity, and adaptability applied to\npractical things. Agency of equilibration between the rhythmical aspects of hardship and\nfortune which permeate all cycles of manifestation. The “accountant.” ",
+        "name": "Prince of Disks",
+        "suite": "Disks (Earth/Physicality)"
+    },
+    {
+        "attributes": "Element: Earth of Earth. Rules the celestial quadrant of Aries, Taurus, Gemini",
+        "id": 75,
+        "interpretation": "Fulfillment of the initial creative Will or impulse; the fertile, productive ripening of all purpose. The actuality of imperial will over a rightly-built\nKingdom, pregnant with possibility and with meaning. ",
+        "name": "Princess of Disks",
+        "suite": "Disks (Earth/Physicality)"
+    },
+    {
+        "attributes": "Element: Fire of Earth. Rules: 21° Leo to 20° Virgo",
+        "id": 76,
+        "interpretation": "Prudence, gain, husbandry. The seed-power of earth – the\nvital, generative, procreative power seeding the receiving and fertile earth (and the world\nof human action). Will manifest as the perfect actuality of event and circumstance. ",
+        "name": "Knight of Disks",
+        "suite": "Disks (Earth/Physicality)"
+    },
+    {
+        "attributes": "Element: Water of Earth. Rules: 21 ° Sagittarius to 20° Capricorn",
+        "id": 77,
+        "interpretation": "Harmonious change, labor. Nurturing, bringing creative action to fruition, “Mother Earth.” The intuitive faculty, or silent inner guidance, behind our\nactions – to which we either listen or not. Principle rather than dogma. ",
+        "name": "Queen of Disks",
+        "suite": "Disks (Earth/Physicality)"
+    }
+]
